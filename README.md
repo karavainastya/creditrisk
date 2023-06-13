@@ -1,1 +1,1 @@
-# creditrisk
+# Churn prediction model for bank.
